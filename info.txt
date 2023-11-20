@@ -4,3 +4,4 @@ JP Morgan Chase
 Architect
 Git,Jenkins, Docker & Kubernetes
 4 years experience
+10 LPA
